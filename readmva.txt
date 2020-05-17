@@ -1,1 +1,5 @@
 Var här: https://codeigniter.com/user_guide/tutorial/news_section.html
+
+Har skapat en databas, 'ci4tutorial' enligt instruktionerna och lagt in några testrader.
+
+Ändrade default user i laragon, så det stämmer med tutorial, dvs user 'root' och pass 'root' isf blankt.
